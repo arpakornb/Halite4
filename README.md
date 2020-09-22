@@ -1,5 +1,5 @@
 # Halite4
-This repo contains my best submission for the Halite 4 competition on kaggle.com https://www.kaggle.com/c/halite. Its final rank is around ~26-30.
+This repo contains my best submission for the Halite 4 competition on [kaggle.com](https://www.kaggle.com/c/halite). Its final rank is around ~26-30.
 
 Initially I did this only as a way to learn python and start participating in kaggle competition. My background was in C programming for networking equipments and I have zero ML experience.
 
